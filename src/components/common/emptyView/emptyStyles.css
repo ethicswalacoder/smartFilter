@@ -1,0 +1,17 @@
+.emptyView-wrap {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100%;
+}
+.emptyTitle {
+    text-align: center;
+    align-items: center;
+    color: #ff7878;
+
+
+}
+.emptyView-wrap img {
+    max-width: 500px;
+    width: 100%;
+}
